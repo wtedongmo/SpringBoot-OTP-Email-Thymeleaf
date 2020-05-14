@@ -1,0 +1,9 @@
+/.idea
+*.iml
+*.jar
+*.class
+**/target
+/*.log
+/*.log.json
+*.log
+*/logs
